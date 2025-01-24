@@ -1,0 +1,90 @@
+.d1 {
+    display: block;
+    width: 900px;
+
+}
+.div2{
+    display: flexbox;
+   
+    width: 500px;
+    justify-content: center;
+    color: rgb(178, 11, 11);
+    background-color: azure;
+    border-radius: 5%;
+    width: 700px;
+}
+.asas{
+    display: flex;
+    justify-content: center;
+    color: rgb(233, 236, 240);
+    background-color: rgb(12, 129, 18);
+    align-items: center;
+    border-radius: 30%;
+    font-size: 50px;
+    height: 100px;
+    font-style: italic;
+    text-align: justify;
+   
+}
+.div1{
+    display: flexbox;
+    
+    width: 600px;
+    justify-content: center;
+    color: rgb(205, 4, 7);
+    background-color: azure;
+    border-radius: 5%;}
+.bnook { display: block;
+    background-image: url(https://files.oaiusercontent.com/file-AhaocHg5ybsKgDq24TZom5?se=2025-01-21T09%3A36%3A11Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0c7c53ae-7333-4726-affc-e8556cafa2a4.webp&sig=tCKd3OTPxGvdOZmfuqDK/9rLclLv%2BBsh20VJafZGrqY%3D);}
+.card2{
+        display: flex;
+        width: 1000px;
+        align-items: center;
+        align-items: center;
+        justify-content: space-between;
+         gap:10% ;
+         margin: 0 5%;
+         padding: 5%;
+
+    }
+.soat{
+        background-color: rgb(8, 41, 189);
+        color: rgb(236, 227, 227);
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        border-radius: 5%;
+        align-items: center;
+     }
+.rasm{
+        width: 42%;
+        display: inline-flexbox;
+        justify-content: space-between;
+        align-items: center;
+        margin: 2%;
+        padding: 1%;
+        
+
+     }
+.asas :hover {
+        color: rgb(120, 9, 9);
+        text-decoration: none;
+        background-color: #ffffff;
+        border-radius: 50px;
+    }
+.duck { 
+        background-color: rgb(234, 21, 21);
+        color: rgb(250, 243, 243);
+        text-decoration: none;
+        border-radius: 10%;
+        border-bottom: 500%;
+        height: 60px;
+       text-size-adjust: 54px ;
+       font-weight: 600px;
+       font-size: larger;
+       padding: 8px 8px;
+    }
+.card2 {
+    padding: 10px;
+    margin: 0 10%;
+}

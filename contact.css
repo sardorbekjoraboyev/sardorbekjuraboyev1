@@ -1,0 +1,64 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1420px;
+}
+
+.body{
+    background-image: url("https://i.pinimg.com/236x/7b/e6/cb/7be6cbdd184f4d965ac51110b6e3425a.jpg");
+    background-size: contain
+}
+
+.Sardorbek{
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 32px;
+    padding: 10px 5PX;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home{
+    width: 80%;
+    display: flex;
+    flex-wrap: nowrap   ;
+    gap: 5px;
+    justify-content: space-around
+}
+
+.home p{
+    padding: 2px 7px;
+    background-color: brown;
+    border-radius: 4px;
+}
+
+#p_hover1:hover{
+    background-color: aqua;
+    color: black;
+
+}
+
+#p_hover1 a{
+    text-decoration: none;
+    color: white;
+}
+
+#p_hover1 a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+#p_hover2:hover{
+   background-color: aqua;
+    color: black;
+}
+#p_hover3:hover{
+   background-color: aqua;
+    color: black;
+}
+#p_hover4:hover{
+   background-color: aqua;
+    color: black;
+}

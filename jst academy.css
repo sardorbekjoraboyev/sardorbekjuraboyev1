@@ -1,0 +1,118 @@
+.card0 {
+    background-image: url(https://files.oaiusercontent.com/file-BE3HLhtYbwiitEVqXA9tc8?se=2025-01-20T20%3A19%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dd70fb681-7dc0-4eba-9bb7-dc1086ee1203.webp&sig=kDeQz/1Za4SN47YWcK48aF7NWzHriwavZx3cVoAHtTQ%3D);
+    background-position: 55%;
+}
+.card1 {
+    flex-direction: row;
+    background-color: rgb(230, 218, 211);
+    display: block;
+    border-radius: 10%;
+}
+.card2 {
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(16, 21, 117);
+    color: black;
+    border-radius: 30%;
+
+}
+#p1 { 
+    background-color: rgb(243, 239, 239);
+    color: brown;
+    padding:  3px;
+    border-radius: 40%;
+    height: 20px;
+    text-decoration: none;
+    
+    
+}
+#p2 {
+    background-color: rgb(245, 243, 243);
+    color: brown;
+    padding:  3px;
+    border-radius: 40%;
+    height: 202x;
+    text-decoration: none;
+}
+#p3 {
+    background-color: rgb(234, 226, 226);
+    color: brown;
+    padding:  3px;
+    border-radius: 40%;
+    height: 20px;
+    text-decoration: none;
+    
+}
+#p4 { 
+    background-color: rgb(244, 237, 238);
+    color: brown;
+    padding:  3px;
+    border-radius: 40%;
+    height: 20px;
+    text-decoration: none;
+    
+}
+.h1 {
+    color: black;
+    background-color: rgb(220, 219, 230);
+    display: flex inline;
+    display: flex;
+    justify-content: center;
+    border-radius: 30%;
+
+}
+
+
+.ingliz { display: inline;
+    display: flex;
+    gap: 100px;
+    border-radius: 30%;
+    justify-content: space-evenly;}
+   
+
+.h2  { 
+    display: flex inline-flexbox;
+    width:450px;
+    padding: 0 15px;
+    background-color: rgb(27, 208, 90);
+    border-radius: 5%;
+
+}
+.h3 { 
+    display: flex inline-flexbox;
+    padding: 0 15px;
+width: 450px;
+border-radius: 5%;
+background-color: rgb(27, 208, 90);
+}
+.oq { color: white;}
+.link{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    border-radius: 30%;
+}
+#p1:hover{ 
+    color: white;
+    background-color: red;
+    font-size: larger;
+}
+#p2:hover{ 
+    color: white;
+    background-color: red;
+    font-size: larger;
+}
+#p3:hover{ 
+    color: white;
+    background-color: red;
+    font-size: larger;
+}
+#p4:hover{ 
+    color: white;
+    background-color: red;
+    font-size: larger;
+}
+
